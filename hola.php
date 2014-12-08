@@ -1,7 +1,6 @@
 <?php
 echo "hola";
 for($i=0;$i<5;$i++){
-	echo "Douglas";
-	echo "Diego ayudame";
+	echo "soinceramente no tengo la mas menor idea que pasa aqui";
 }
 ?>
